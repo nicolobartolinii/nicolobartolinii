@@ -14,8 +14,6 @@
   
 </div>
 
----
-
 ## 🚀 About me
 
 ```typescript
@@ -30,8 +28,6 @@ const nick = {
     funFact: "I love turning complex problems into elegant solutions ✨"
 };
 ```
-
----
 
 <details>
 <summary><h2>🛠️ Tech arsenal</h2></summary>
@@ -72,8 +68,6 @@ const nick = {
 </div>
 </details>
 
----
-
 <details>
 <summary><h2>📊 GitHub analytics</h2></summary>
 
@@ -90,8 +84,6 @@ const nick = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolobartolinii&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 </details>
-
----
 
 <details>
 <summary><h2>💼 Professional experience</h2></summary>
@@ -130,8 +122,6 @@ const nick = {
 </div>
 </details>
 
----
-
 <details>
 <summary><h2>🎓 Academic journey</h2></summary>
 
@@ -149,13 +139,13 @@ const nick = {
 </div>
 </details>
 
----
-
-## 🎵 Currently vibing to
+<details>
+<summary><h2>🎵 Currently vibing to</h2></summary>
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=nicolbartolini&unique=true&count=1" alt="Spotify Recently Played"/>
 </div>
+</details>
 
 ---
 
@@ -172,8 +162,6 @@ const nick = {
   </picture>
   
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
