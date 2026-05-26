@@ -1,168 +1,94 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Nicolò%20Bartolini&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=51&descSize=13" alt="Header"/>
-</div>
+# Hi, I'm Nicolò Bartolini
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Master's+in+Computer+Engineering;Full-Stack+Developer+%40+zaaac.it;Passionate+about+Clean%2C+Efficient+Code" alt="Typing SVG" />
-</p>
+**Software engineer**
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolobartolinii)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolobartolinii@gmail.com)
-  [![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/nicolobartolinii/nicolobartolinii/raw/main/CV_NBartolini_en.pdf)
-  
-</div>
+Backend and full-stack web development, relational databases, system integration, and maintainable software.
 
-## 🚀 About me
+[LinkedIn](https://www.linkedin.com/in/nicolobartolinii) | [Email](mailto:nicolobartolinii@gmail.com)
 
-```typescript
-const nick = {
-    role: "Software Engineer",
-    location: "Marche, Italy 🇮🇹",
-    currentFocus: ["Full-Stack Development", "Deep Learning", "Mobile Dev"],
-    workingOn: "PMS Application Lifecycle Management @ zaaac.it",
-    researching: "Satellite Data Analysis for Forest Change Detection",
-    studying: "Master's in Computer Engineering # univpm",
-    interests: ["Clean Architecture", "Cloud Technologies", "Problem Solving"],
-    funFact: "I love turning complex problems into elegant solutions ✨"
-};
-```
+## About me
 
-<details>
-<summary><h2>🛠️ Tech arsenal</h2></summary>
+I am a software engineer based in Marche, Italy. I hold a master's degree in Computer and Automation Engineering from Università Politecnica delle Marche, completed in 2025 with a final grade of 110/110 cum laude.
 
-<div align="center">
+My work is mainly focused on backend and full-stack web development in business and research contexts. I have hands-on experience with relational databases, APIs, system integration, legacy code refactoring, Docker-based workflows, and basic AWS EC2 and SES infrastructure management. I am growing toward modern backend, full-stack, and product engineering, with attention to maintainability, data quality, and user experience.
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## Current focus
 
-### 🔧 Frameworks & Libraries
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+I currently work as a software engineer at NBS Srl in San Benedetto del Tronto, Italy.
 
-### 🤖 AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- Backend and database-oriented systems in an enterprise context
+- SQL, PostgreSQL, Oracle, monitoring queries, SLA calculations, and application process analysis
+- System integration, data warehouse work, and PostgreSQL row-level security in a test environment
+- Token-based authentication prototyping between distributed applications
+- Recent exposure to frontend work with Angular and Ionic
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## Experience highlights
 
-</div>
-</details>
+### NBS Srl, software engineer
 
-<details>
-<summary><h2>📊 GitHub analytics</h2></summary>
+October 2025 to present, San Benedetto del Tronto, Italy
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nicolobartolinii&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
-</div>
+- Work on backend and database-oriented tasks for enterprise systems.
+- Write SQL queries for monitoring, SLA calculations, and application process analysis.
+- Contribute to system integration activities involving PostgreSQL, Oracle, and distributed applications.
+- Explore data warehouse topics, row-level security on PostgreSQL in a test environment, token-based authentication, Angular, and Ionic.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nicolobartolinii&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophy"/>
-</div>
+### MASSIVE SAS, full-stack developer
 
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolobartolinii&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-</details>
+October 2024 to November 2025, San Benedetto del Tronto, Italy
 
-<details>
-<summary><h2>💼 Professional experience</h2></summary>
+- Developed and maintained a web-based PMS and booking engine built with Symfony, including legacy backend refactoring and an approximately 20% measured reduction in page loading times.
+- Integrated the Revolut payment gateway in test and pre-production environments.
+- Helped migrate frontend work from templates, Vue 2, and jQuery toward Symfony UX, Turbo, and Tailwind CSS.
+- Introduced Docker containerization, improved the deployment workflow from about 9 minutes to about 3 minutes, and managed basic AWS EC2 and SES infrastructure tasks.
 
-<div align="center">
+### Università Politecnica delle Marche D3A, IT research collaborator
 
-### 🏢 Current roles
+April 2024 to December 2025, Ancona, Italy
 
-<table>
-<tr>
-<td align="center" width="50%">
+- Worked on machine learning algorithms and software tools for scientific research on solid biofuels.
+- Built a Django web application for managing and visualizing experimental data used internally by the lab.
+- Supported data analysis and software-related activities for a scientific publication.
+- Worked with research data, applied machine learning workflows, and domain-specific data processing.
 
-**Full-Stack Developer**  
-*zaaac.it* | Oct 2024 - Present
+## Technical skills
 
-🔹 PMS & BE Application full-cycle development and management  
-🔹 20% performance improvement  
-🔹 Revolut payment integration  
-🔹 Docker & AWS infrastructure  
+**Hands-on experience**
 
-</td>
-<td align="center" width="50%">
+SQL, PostgreSQL, Oracle, PHP, Symfony, JavaScript, TypeScript, Docker, Git, HTML, CSS, Tailwind CSS, Symfony UX, Turbo
 
-**IT Collaborator**  
-*Università Politecnica delle Marche* | Apr 2024 - Present
+**Project and academic experience**
 
-🔹 ML algorithms for scientific research  
-🔹 Django web application development  
-🔹 Data visualization & management  
-🔹 Solid biofuels research support  
+Python, Django, Django REST Framework, AWS EC2 and SES, MySQL and MariaDB, Swift and SwiftUI, applied machine learning, data processing
 
-</td>
-</tr>
-</table>
+**Currently exploring and complementary**
 
-</div>
-</details>
+Angular, Ionic, Java, MongoDB, Kotlin, Flutter, Bootstrap, Linux, Postman
 
-<details>
-<summary><h2>🎓 Academic journey</h2></summary>
+## Education
 
-<div align="center">
+### Master's degree in Computer and Automation Engineering
 
-### 📚 Current studies
-**Master's in Computer & Automation Engineering**  
-*Università Politecnica delle Marche* | 2023-2025  
-**Expected grade:** 110/110 cum laude ⭐
+Università Politecnica delle Marche, 2025
 
-### 🏆 Past achievement
-**Bachelor's in Computer & Automation Engineering**  
-*Grade:* 104/110 | *Thesis:* iOS Social Network for Film Enthusiasts
+Final grade: 110/110 cum laude
 
-</div>
-</details>
+Thesis: deep learning and geospatial data analysis using Sentinel-2 and PlanetScope satellite time series for forest change detection and logged area classification.
 
-<details>
-<summary><h2>🎵 Currently vibing to</h2></summary>
+### Bachelor's degree in Computer and Automation Engineering
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=nicolbartolini&unique=true&count=1" alt="Spotify Recently Played"/>
-</div>
-</details>
+Università Politecnica delle Marche, 2023
 
----
+Final grade: 104/110
 
-<div align="center">
-  
-  ### 🌊 Thanks for visiting! 
-  
-  <img src="https://komarev.com/ghpvc/?username=nicolobartolinii&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolobartolinii/nicolobartolinii/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/nicolobartolinii/nicolobartolinii/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://github.com/nicolobartolinii/nicolobartolinii/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-  
-</div>
+Thesis: native iOS social network in SwiftUI for cinema enthusiasts.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
-</div>
+## How I work
+
+- I care about maintainability, clarity, and readable code.
+- I prefer pragmatic improvements over unnecessary rewrites.
+- I like understanding the user or business problem behind a technical task.
+- I value clear written communication and useful documentation.
+- I try to make future changes easier, not just make the current task work.
+
+If my background looks relevant to what you are building, feel free to connect.
