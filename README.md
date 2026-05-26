@@ -4,7 +4,7 @@
 
 Backend and full-stack web development, relational databases, system integration, and maintainable software.
 
-[LinkedIn](https://www.linkedin.com/in/nicolobartolinii) | [Email](mailto:nicolobartolinii@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nicolobartolinii) | [Email](mailto:nicolobartolinii@gmail.com) | [CV](CV_NBartolini_en.pdf)
 
 ## About me
 
