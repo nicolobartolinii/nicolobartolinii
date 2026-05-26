@@ -20,7 +20,7 @@ I currently work as a software engineer at NBS Srl in San Benedetto del Tronto, 
 - SQL, PostgreSQL, Oracle, monitoring queries, SLA calculations, and application process analysis
 - System integration, data warehouse work, and PostgreSQL row-level security in a test environment
 - Token-based authentication prototyping between distributed applications
-- Recent exposure to frontend work with Angular and Ionic
+- Frontend and mobile-oriented work with Angular and Ionic as part of the current role
 
 ## Experience highlights
 
@@ -31,7 +31,7 @@ October 2025 to present, San Benedetto del Tronto, Italy
 - Work on backend and database-oriented tasks for enterprise systems.
 - Write SQL queries for monitoring, SLA calculations, and application process analysis.
 - Contribute to system integration activities involving PostgreSQL, Oracle, and distributed applications.
-- Explore data warehouse topics, row-level security on PostgreSQL in a test environment, token-based authentication, Angular, and Ionic.
+- Work across data warehouse topics, row-level security on PostgreSQL in a test environment, token-based authentication, and selected frontend and mobile-oriented tasks with Angular and Ionic.
 
 ### MASSIVE SAS, full-stack developer
 
@@ -53,17 +53,21 @@ April 2024 to December 2025, Ancona, Italy
 
 ## Technical skills
 
-**Hands-on experience**
+**Backend, databases and integration**
 
-SQL, PostgreSQL, Oracle, PHP, Symfony, JavaScript, TypeScript, Docker, Git, HTML, CSS, Tailwind CSS, Symfony UX, Turbo
+SQL, PostgreSQL, Oracle, MySQL and MariaDB, PHP, Symfony, Java, Python, Django, Django REST Framework, APIs, system integration, token-based authentication, Postman
 
-**Project and academic experience**
+**Frontend, web and mobile development**
 
-Python, Django, Django REST Framework, AWS EC2 and SES, MySQL and MariaDB, Swift and SwiftUI, applied machine learning, data processing
+JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Symfony UX, Turbo, Angular, Ionic, Bootstrap, Swift and SwiftUI, Kotlin, Flutter
 
-**Currently exploring and complementary**
+**Infrastructure, tooling and workflows**
 
-Angular, Ionic, Java, MongoDB, Kotlin, Flutter, Bootstrap, Linux, Postman
+Docker, Git, Linux, AWS EC2 and SES, deployment workflows
+
+**Data, machine learning and geospatial work**
+
+Applied machine learning, data processing, geospatial data analysis, MongoDB
 
 ## Education
 
